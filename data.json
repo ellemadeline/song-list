@@ -1,4 +1,4 @@
-
+[
 {
     "songtitle" : "Mastermind",
     "artists": ["Taylor Swift"],
@@ -89,3 +89,4 @@
     "genres": ["Country"],
     "year": "2020"
 }
+]
