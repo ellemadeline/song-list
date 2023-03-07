@@ -1,0 +1,91 @@
+
+{
+    "songtitle" : "Mastermind",
+    "artists": ["Taylor Swift"],
+    "genres": ["Electropop"],
+    "year": "2022"
+},
+{
+    "songtitle" : "Your're On Your Own, Kid",
+    "artists": ["Taylor Swift"],
+    "genres": ["Pop"],
+    "year": "2022"
+},
+{
+    "songtitle" : "Superheros",
+    "artists": ["The Script"],
+    "genres": ["Pop Rock"],
+    "year": "2014"
+},
+{
+    "songtitle" : "Rivers and Roads",
+    "artists": ["The Head and the Heart"],
+    "genres": ["Alternative"],
+    "year": "2010"
+},
+{
+    "songtitle" : "The Anthem",
+    "artists": ["Good Charlotte"],
+    "genres": ["Alternative"],
+    "year": "2002"
+},
+{
+    "songtitle" : "she's all i wanna be",
+    "artists": ["Tate McRae"],
+    "genres": ["Pop"],
+    "year": "2022"
+},
+{
+    "songtitle" : "Sugar, We're Goin Down",
+    "artists": ["Fall Out Boy"],
+    "genres": ["Rock"],
+    "year": "2005"
+},
+{
+    "songtitle" : "Someone To You",
+    "artists": ["BANNERS"],
+    "genres": ["Alternative"],
+    "year": "2020"
+},
+{
+    "songtitle" : "Born This Way",
+    "artists": ["Lady Gaga"],
+    "genres": ["Pop"],
+    "year": "2011"
+},
+{
+    "songtitle" : "A Thousand Years",
+    "artists": ["Christina Perri"],
+    "genres": ["Pop"],
+    "year": "2011"
+},
+{
+    "songtitle" : "We Found Love",
+    "artists": ["Rihanna", "Calvin Harris"],
+    "genres": ["Electropop", "Pop", "R&B"],
+    "year": "2011"
+},
+{
+    "songtitle" : "A Sky Full of Stars",
+    "artists": ["Coldplay"],
+    "genres": ["Alternative", "Pop"],
+    "year": "2014"
+},
+{
+    "songtitle" : "Somewhere Only We Know",
+    "artists": ["Keane"],
+    "genres": ["Alternative", "Pop"],
+    "year": "2004"
+},
+{
+    "songtitle" : "Green Light",
+    "artists": ["Lorde"],
+    "genres": ["Pop"],
+    "year": "2017"
+},
+{
+    "songtitle" : "I Hope",
+    "artists": ["Gabby Barret"],
+    "genres": ["Country"],
+    "year": "2020"
+}
